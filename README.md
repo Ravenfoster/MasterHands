@@ -10,7 +10,7 @@ SSR isomorphic application in conjunction with NGINX + Django + Express.js + Rea
 ## Project setup
 
 ```
-git clone https://github.com/Ravenfoster/MasterHands_React.git
+git clone https://github.com/Ravenfoster/MasterHands.git
 
 python -m venv venv
 pip install -r .\requirements.txt
